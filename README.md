@@ -2,7 +2,7 @@
 
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
-Website Link : https://nxtxtrendzzzz.ccbp.tech/
+Website Link : https://nxtxtrendzzzz.ccbp.tech/login
 
 
 ### Refer to the video below:
